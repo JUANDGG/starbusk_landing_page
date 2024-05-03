@@ -22,7 +22,3 @@ The page includes the following features:
 2. Open the `index.html` file in your web browser to view the landing page.
 3. Explore the different sections and features of the page.
 
-## Contributions
-
-Contributions are welcome! If you find any bugs or have any improvement ideas, feel free to create a pull request.
-
